@@ -1,3 +1,10 @@
+.communityWrap{
+    width: 700px;
+    margin: 0 auto;
+}
+
 h1{
     color:white;
+    font-weight: 400;
+    margin: 20px auto;
 }

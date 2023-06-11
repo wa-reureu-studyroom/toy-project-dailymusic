@@ -38,7 +38,7 @@
 }
 
 .loginPart{
-    width: 40%;
+    width: 400px;
     height: 600px;
     background-color: rgb(20, 20, 22, 0.1);
     box-shadow: 0 4px 6px 0 rgb(0, 0, 0, 0.25);
@@ -102,7 +102,7 @@
 .loginFooter{
     position: absolute;
     bottom: 20px;
-    left: 65px;
+    left: 20px;
 }
 
 .loginSelect{
